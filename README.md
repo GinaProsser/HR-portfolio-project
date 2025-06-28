@@ -1,5 +1,3 @@
-# HR-portfolio-project
-My HR career portfolio
 # Gina Prosser – HR Portfolio 🗂️
 
 Welcome! I'm a CIPD-qualified People Support Advisor with experience across recruitment, onboarding, and HR compliance, always keeping people at the heart of my work.
