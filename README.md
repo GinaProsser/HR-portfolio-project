@@ -1,6 +1,6 @@
 # Gina Prosser – HR Portfolio 🗂️
 
-Welcome! I'm a CIPD-qualified People Support Advisor with experience across recruitment, onboarding, and HR compliance, always keeping people at the heart of my work.
+Welcome to my GitHub! I'm a CIPD-qualified People Support Advisor with experience across recruitment, onboarding, and HR compliance, always keeping people at the heart of my work.
 
 ## Highlights
 - 📄 [My CV](cv-gina-rose.pdf)
