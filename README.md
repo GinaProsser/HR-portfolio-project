@@ -49,7 +49,6 @@ Handled a complex performance case requiring manager coaching, policy clarificat
 - [📄 View my current CPD](12_month_CPD_GP_20250701.pdf)
 
 
-
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/ginaroseprosser)
 - Email: ginarose93@outlook.com
