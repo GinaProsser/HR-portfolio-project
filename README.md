@@ -45,11 +45,11 @@ I bring experience in recruitment, onboarding, employee wellbeing and case manag
 ---
 
 ## 📚 Continued Professional Development
-- [📄 View my current CPD](https://github.com/GinaProsser/HR-portfolio-project/blob/24cca1ef29d4848564cd88fd39bfab7559dd4357/12_month_CPD_GP_%2020250701.pdf)
+- [📄 View my current CPD Plan](https://github.com/GinaProsser/HR-portfolio-project/blob/24cca1ef29d4848564cd88fd39bfab7559dd4357/12_month_CPD_GP_%2020250701.pdf)
 
 
 ## Contact
-- [💼 Connect with me on LinkedIn](https://www.linkedin.com/in/ginaroseprosser)
-- [✉️ Email Me](mailto:ginarose93@outlook.com)
+- [💼 Lets connect on LinkedIn](https://www.linkedin.com/in/ginaroseprosser)
+- [✉️ Drop me an email](mailto:ginarose93@outlook.com)
 
  *This portfolio is continuously evolving — check back for new case studies and learnings from my HR career journey!*
