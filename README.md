@@ -27,6 +27,14 @@ I bring experience in recruitment, onboarding, employee wellbeing and case manag
 
 ---
 
+## 💬 Feedback from Colleagues
+
+> *"Gina consistently goes above and beyond her own workload and is an extremely innovative thinker when it comes to her approach to work." – Elle R-P., Resourcing Partner*
+
+[Read the full email here]
+
+---
+
 ## 📚 Professional Development
 -  [CIPD Level 5 – Completed (2025)](https://github.com/GinaProsser/HR-portfolio-project/blob/2ed2cb49f710b4ca104c1329aa3331cfc9a42857/CIPD_L5_Certificate_redacted.pdf)
 -  CIPD Level 3 - Completed (2017)
