@@ -41,7 +41,7 @@ I bring experience in recruitment, onboarding, employee wellbeing and case manag
 
 
 ## Contact
-- [LinkedIn](https://www.linkedin.com/in/ginaroseprosser)
-- Email: ginarose93@outlook.com
+- [💼 Connect with me on LinkedIn](https://www.linkedin.com/in/ginaroseprosser)
+- [✉️ Email Me](mailto:ginarose93@outlook.com)
 
  *This portfolio is continuously evolving — check back for new case studies and learnings from my HR career journey!*
