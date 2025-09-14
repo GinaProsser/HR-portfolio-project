@@ -46,8 +46,7 @@ Handled a complex performance case requiring manager coaching, policy clarificat
 ---
 
 ## 📚 Continued Professional Development
-- [📄 View my current CPD](./12_month_CPD_GP_20250701.pdf)
-
+- [📄 View my current CPD](https://github.com/GinaProsser/HR-portfolio-project/blob/24cca1ef29d4848564cd88fd39bfab7559dd4357/12_month_CPD_GP_%2020250701.pdf)
 
 
 ## Contact
