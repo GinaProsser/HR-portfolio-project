@@ -37,7 +37,7 @@ Handled a complex performance case requiring manager coaching, policy clarificat
 ---
 
 ## 📚 Professional Development
--  CIPD Level 5 – Completed (2025)
+-  [CIPD Level 5 – Completed (2025)](https://github.com/GinaProsser/HR-portfolio-project/blob/2ed2cb49f710b4ca104c1329aa3331cfc9a42857/CIPD_L5_Certificate_redacted.pdf)
 -  CIPD Level 3 - Completed (2017)
 -  Successful Manager Pathway (CQC) internal manager training - in progress (completion date Jan 2026)
 - Power BI with a focus on onboarding SLAs, workload distribution and ER Case metrics (Self-Directed)  
