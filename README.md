@@ -39,14 +39,14 @@ Handled a complex performance case requiring manager coaching, policy clarificat
 ## 📚 Professional Development
 -  CIPD Level 5 – Completed (2025)
 -  CIPD Level 3 - Completed (2017)
--  Successful Manager Pathway (CQC) internal manager training - in progress
+-  Successful Manager Pathway (CQC) internal manager training - in progress (completion date Jan 2026)
 - Power BI with a focus on onboarding SLAs, workload distribution and ER Case metrics (Self-Directed)  
 - GitHub Portfolio (This right here!)
 
 ---
 
 ## 📚 Continued Professional Development
-- [Add link to current CPD]
+- [Current CPD]
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/ginaroseprosser)
