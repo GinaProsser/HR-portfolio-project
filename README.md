@@ -6,10 +6,11 @@ I bring experience in recruitment, onboarding, employee wellbeing and case manag
 ---
 
 ## 🔍 Focus Areas
-- ✨ People Experience & Onboarding
--  📊 Data-Informed People Support (Power BI, Excel)
+- ✨ People, Recruitment & Onboarding Experience
+- 📊 Data-Informed People Support (Power BI, Excel, HRIS)
 - 🌱 Wellbeing Initiatives
 - 🤝 Employee Relations Case Handling (in-progress)
+- 💡 Developing my Current Management/Coaching Skills (in-progress)
 
 ---
 
