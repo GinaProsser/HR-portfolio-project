@@ -47,6 +47,8 @@ Handled a complex performance case requiring manager coaching, policy clarificat
 
 ## 📚 Continued Professional Development
 - [Current CPD]
+- [📄 View the PDF](12_month_CPD_GP_20250701.pdf)
+
 
 ## Contact
 - [LinkedIn](https://www.linkedin.com/in/ginaroseprosser)
