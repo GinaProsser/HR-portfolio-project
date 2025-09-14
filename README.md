@@ -13,26 +13,16 @@ I bring experience in recruitment, onboarding, employee wellbeing and case manag
 
 ---
 
-## 📄 Featured Work
+## 📄 Key Achievements
+👉 Streamlined onboarding and lifecycle processes using HR data and Power BI dashboards, reducing case resolution times and minimising overall onboarding completion timeline. Presented actionable insights to senior stakeholders, translating data into clear, strategic narratives.  
 
-### 1.[insert link]
-Redesigned onboarding processes to improve new hire engagement and reduce first-month attrition.
+👉 Identified inefficiencies in recruitment, implementing process changes substantially reducing later-stage rejections from approximately 20% to less than 5% improving hiring efficiency and enhancing candidate experience, strengthening the organisations reputation.  
 
-> 📍 *Result: xxxxx.*
+👉 Managed a large-scale Technology recruitment project partnering with a commercial agency to successfully fill 80% of Tech roles within three months, a quarter of hires at Director level.  
 
----
+👉 Supported the implementation of HRIS systems (Fourth, ServiceNow) reducing manual administration, ensuring accurate employee records and improving the new hire experience across departments.  
 
-### 2. [Wellbeing & Burnout Awareness Campaign](./case-studies/wellbeing-initiative.md)
-Developed and launched a wellness campaign focusing on psychological safety, EAP access, and burnout awareness.
-
-> 📍 *Result: 2x increase in EAP usage and positive feedback in pulse survey.*
-
----
-
-### 3. [Employee Relations Case Example](./case-studies/er-case-summary.md)
-Handled a complex performance case requiring manager coaching, policy clarification, and documentation support.
-
-> 📍 *Result: Resolved within 6 weeks with positive feedback from both manager and employee.*
+👉 Led wellbeing initiatives within the People Operations Directorate producing a weekly newsletter and embedding a wellbeing focus into team culture to boost engagement and retention.
 
 ---
 
