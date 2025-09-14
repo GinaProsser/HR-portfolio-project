@@ -46,7 +46,8 @@ Handled a complex performance case requiring manager coaching, policy clarificat
 ---
 
 ## 📚 Continued Professional Development
-- [📄 View my current CPD](12_month_CPD_GP_20250701.pdf)
+- [📄 View my current CPD](./12_month_CPD_GP_20250701.pdf)
+
 
 
 ## Contact
