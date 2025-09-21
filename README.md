@@ -29,7 +29,7 @@ I bring experience in recruitment, onboarding, employee wellbeing and case manag
 
 ## 💬 Feedback from Colleagues
 
-> *"Gina consistently goes above and beyond her own workload and is an extremely innovative thinker when it comes to her approach to work." – Elle Robertson-Phillips, Resourcing Partner*
+> *"There have been many times when Gina has gone above and beyond to assist her colleagues, outside of her own workload and is capable of being both an extremely independent and self directive part of the team, as well as collaborating enthusiastically and effectively with others." – Elle Robertson-Phillips, Resourcing Partner*
 
 [✉️ Read the full email here](https://github.com/GinaProsser/HR-portfolio-project/blob/2d4bd17a7761bee98da33526dbeb2e1156c24c11/Elle%20Feedback%2020240906.png)
 
