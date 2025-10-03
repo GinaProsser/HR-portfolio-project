@@ -52,4 +52,4 @@ I bring experience in recruitment, onboarding, employee wellbeing, HR metrics, c
 - [💼 Lets connect on LinkedIn](https://www.linkedin.com/in/ginaroseprosser)
 - [✉️ Drop me an email](mailto:ginarose93@outlook.com)
 
- *This portfolio is continuously evolving — check back for new case studies and learnings from my HR career journey!*
+ *This portfolio is continuously evolving, so please check back for new case studies and learnings from my HR career journey!*
