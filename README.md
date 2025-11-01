@@ -10,7 +10,7 @@ I bring experience in recruitment, onboarding, employee wellbeing, HR metrics, c
 - 📊 Data-Informed People Support (Power BI, Excel, HRIS)
 - 🌱 Wellbeing Initiatives
 - 🤝 Employee Relations Case Handling (in-progress)
-- 💡 Developing my Current Management/Coaching Skills (in-progress)
+- 💡 Management/Coaching (in-progress)
 
 ---
 
