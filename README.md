@@ -17,7 +17,7 @@ I bring experience in recruitment, onboarding, employee wellbeing, HR metrics, c
 ## 📄 Key Achievements
 👉 Streamlined onboarding and lifecycle processes using HR data and Power BI dashboards to reduce case resolution times and to minimise overall onboarding completion timeline. Presented actionable insights to senior stakeholders to evidence team workload levels. 
 
-👉 Identified inefficiencies in recruitment, implementing process changes substantially reducing later-stage rejections from approximately 20% to less than 5% improving hiring efficiency and enhancing candidate experience, strengthening the organisations reputation.  
+👉 Identified inefficiencies in recruitment, implementing process changes substantially reducing later-stage rejections by 75% improving hiring efficiency and enhancing candidate experience, strengthening the organisations reputation.  
 
 👉 Supported organisational transformation by joining a newly established team within the People Directorate, guiding existing colleagues through structural change while recruiting and managing a new team member. This included developing and embedding clear workflows and responsibilities to improve collaboration, structure and overall team efficiency.
 
