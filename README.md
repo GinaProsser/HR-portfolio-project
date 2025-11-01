@@ -1,5 +1,5 @@
 # Gina Prosser 👩‍💼 | HR Portfolio 📚
-Welcome to my GitHub! I'm a CIPD-qualified People Advisor, with a passion for keeping people at the heart of my work.
+Welcome to my GitHub! I'm a L5 CIPD-qualified People Advisor, with a passion for keeping people at the heart of my work.
 
 I bring experience in recruitment, onboarding, employee wellbeing, HR metrics, case management and diversity, equality and inclusion with a growing focus on digital HR transformation and continuous improvement.
 
@@ -15,13 +15,15 @@ I bring experience in recruitment, onboarding, employee wellbeing, HR metrics, c
 ---
 
 ## 📄 Key Achievements
-👉 Streamlined onboarding and lifecycle processes using HR data and Power BI dashboards, reducing case resolution times and minimising overall onboarding completion timeline. Presented actionable insights to senior stakeholders, translating data into clear, strategic narratives.  
+👉 Streamlined onboarding and lifecycle processes using HR data and Power BI dashboards to reduce case resolution times and to minimise overall onboarding completion timeline. Presented actionable insights to senior stakeholders to evidence team workload levels. 
 
 👉 Identified inefficiencies in recruitment, implementing process changes substantially reducing later-stage rejections from approximately 20% to less than 5% improving hiring efficiency and enhancing candidate experience, strengthening the organisations reputation.  
 
+👉 Supported organisational transformation by joining a newly established team within the People Directorate, guiding existing colleagues through structural change while recruiting and managing a new team member. This included developing and embedding clear workflows and responsibilities to improve collaboration, structure and overall team efficiency.
+
 👉 Managed a large-scale Technology recruitment project partnering with a commercial agency to successfully fill 80% of Tech roles within three months, a quarter of hires at Director level.  
 
-👉 Supported the implementation of HRIS systems (Fourth, ServiceNow) reducing manual administration, ensuring accurate employee records and improving the new hire experience across departments.  
+👉 Supported the implementation of HRIS systems (Fourth, Cornerstone) reducing manual administration, ensuring accurate employee records and improving the new hire experience across departments.  
 
 👉 Led wellbeing initiatives within the People Operations Directorate producing a weekly newsletter and embedding a wellbeing focus into team culture to boost engagement and retention.
 
